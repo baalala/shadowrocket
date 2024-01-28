@@ -2,6 +2,8 @@
 #!desc=番茄小说广告屏蔽, version = 3.1补漏版
 
 [Rule]
+DOMaIN,p9-webcast-sign.douyinpic.com,REJECT
+domain,pull-flv-l11.douyincdn.com,reject
 DOMaIN,p6-webcast.douyinpic.com,REJECT
 domain,mon.zijieapi.com,reject
 domain,api-access.pangolin-sdk-toutiao1.com,reject
